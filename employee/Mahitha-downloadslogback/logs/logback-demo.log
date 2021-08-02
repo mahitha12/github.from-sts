@@ -1,0 +1,9 @@
+"2021-08-01 10:57:22 [main] INFO  com.springboot.test.DemoApplication - Starting DemoApplication using Java 15.0.1 on DESKTOP-R9TILUA with PID 15820 (D:\workspace\demo\target\classes started by myuser in D:\workspace\demo)
+""2021-08-01 10:57:22 [main] INFO  com.springboot.test.DemoApplication - No active profile set, falling back to default profiles: default
+""2021-08-01 10:57:29 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2021-08-01 10:57:30 [main] INFO  com.springboot.test.DemoApplication - Started DemoApplication in 9.623 seconds (JVM running for 11.359)
+""2021-08-01 11:00:50 [main] INFO  com.springboot.test.DemoApplication - Starting DemoApplication using Java 15.0.1 on DESKTOP-R9TILUA with PID 25908 (D:\workspace\demo\target\classes started by myuser in D:\workspace\demo)
+""2021-08-01 11:00:50 [main] INFO  com.springboot.test.DemoApplication - No active profile set, falling back to default profiles: default
+""2021-08-01 11:00:57 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2021-08-01 11:00:58 [main] INFO  com.springboot.test.DemoApplication - Started DemoApplication in 9.416 seconds (JVM running for 11.385)
+"
