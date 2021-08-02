@@ -12,9 +12,9 @@ public class DemoApplication {
 
 	
 	public static void main(String[] args) {
-		logger.info("Entered into EmployeeApplication >>");
+		logger.info("Entered into EmployeeApplication ");
 		SpringApplication.run(DemoApplication.class, args);
-		logger.info("Exit from EmployeeApplication <<");
+		logger.info("Exit from EmployeeApplication ");
 		
 	}
 
